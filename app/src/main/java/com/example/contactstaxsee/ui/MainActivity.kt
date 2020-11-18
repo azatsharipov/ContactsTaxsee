@@ -1,7 +1,8 @@
-package com.example.contactstaxsee
+package com.example.contactstaxsee.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.contactstaxsee.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
